@@ -22,5 +22,15 @@
 // console.log(a);
 // }
 
-const a = 28;
-console.log(a);
+// const a = 28;
+// console.log(a);
+
+let a=60;
+let b=60;
+if (a<b) {
+   console.log("A is smallest");
+    
+} else {
+    console.log("B is greater");
+    
+}

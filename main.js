@@ -52,16 +52,16 @@
 //     default:
 //         console.log("Not valid")
 // }
-
-switch (1){
+let a="6";
+switch (a){
     case "1":
-    console.log("Baishakh")
+    console.log("Baishakh");
     break;
     case "2":
-    console.log("Jestha")
+    console.log("Jestha");
     break;
     case "3":
-    console.log("Ashar")
+    console.log("Ashar");
     break;
     case "4":
     console.log("Shrawan")
