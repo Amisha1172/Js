@@ -52,7 +52,7 @@
 //     default:
 //         console.log("Not valid")
 // }
-let a="6";
+let a="10";
 switch (a){
     case "1":
     console.log("Baishakh");
@@ -90,4 +90,7 @@ switch (a){
     case "12":
     console.log("chaitra")
     break;
+    default:
+    console.log("Please enter vavid number");
+    
 }
