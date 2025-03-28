@@ -77,3 +77,4 @@ let a = 6;
 for (x=1; x<=10; x++){
     console.log("6 x",x,"=",x*6);
 }
+  
