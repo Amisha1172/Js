@@ -42,15 +42,38 @@
     
 // }
 // a();
-function a (){
-    console.log("amisha");
+// function a (){
+//     console.log("amisha");
     
-}
-a();
-function d (e){
-    console.log(e);
+// }
+// a();
+// function d (e){
+//     console.log(e);
     
-}
-d("amisha");
+// }
+// d("amisha");
 
 
+
+// let a = 4;
+// for (i=1; i<=10; i++){
+//     console.log("4 x",i,"=",i*4);
+    
+
+// }
+// USing 5 number
+
+
+// let a = 5;
+// for (i=1; i<=10; i++){
+//     console.log("5 x",i,"=",i*5);
+    
+
+// }
+
+// Using 6 number added 
+
+let a = 6;
+for (x=1; x<=10; x++){
+    console.log("6 x",x,"=",x*6);
+}
