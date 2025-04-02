@@ -78,17 +78,30 @@
 // console.log(a.name);
 
 // using objects 
-let x = [7,8,9]
-let a = [
-    {
-        name:"amisha",
-        class:1,
-        present:true
-    },
-    {
-        name:"ram",
-        class:3,
-    }
-]
-console.log(x[1]);
+// let x = [7,8,9]
+// let a = [
+//     {
+//         name:"amisha",
+//         class:1,
+//         present:true
+//     },
+//     {
+//         name:"ram",
+//         class:3,
+//     }
+// ]
+// console.log(x[1]);
 
+// create sort method
+// number
+let b = [4,5,3,2,6];
+// b.sort((a,b)=> b-a); Decending order
+console.log(b);
+
+// b.sort((a,b)=> );
+
+// create string
+
+let a = ["apple","orange", "banana" ,"pineapple","grapes"]
+a.sort();
+console.log(a);
