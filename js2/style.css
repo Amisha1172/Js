@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container>h1{
+    text-align: center;
+}
+.store{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 4rem;
+    flex-wrap: wrap;
+    padding: 2rem;
+}
+.card{
+border: 2px solid blue;
+border-radius: 10px;
+padding: 1 rem;
+}
+.card img{
+    height: 300px;
+}
+
